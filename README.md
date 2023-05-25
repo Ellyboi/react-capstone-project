@@ -193,7 +193,7 @@ Otherwise, you can see the project deployed in Render in the live demo.
 
 ## :movie_camera: Project Presentation <a name="project-presentation"></a>
 
-- [Presentation](Country's Details App - 23 May 2023 - Watch Video https://www.loom.com/share/f56b7be2522e4487bb2be65e37cfe7ee)
+- [Presentation](Country's Details App - 25 May 2023 - [https://www.loom.com/share/df65b6d1292846c88af2370c5ea6f109]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
