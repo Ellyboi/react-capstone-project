@@ -43,12 +43,12 @@
 * displays a list of countries.
 * displays a country's details.
 
-## Mobile
+## Mobile View 
 
 ![Screenshot (26)](https://github.com/Ellyboi/react-capstone-project/assets/70116262/c99fbfff-b5ea-4c2c-b713-531d492f61e3)
 
 
-## Desktop
+## Desktop View
 
 ![Screenshot (27)](https://github.com/Ellyboi/react-capstone-project/assets/70116262/d795a345-bef9-470e-a78a-8ef84b0f99e9)
 
