@@ -11,8 +11,7 @@
 <details>
   <summary>
     <h1> Table of Contents</h1>
-  </summary>
-
+  </summary>
 - [ About the Project](#about-project)
   - [ Built With](#built-with)
     - [Tech Stack](#tech-stack)
