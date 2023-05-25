@@ -14,6 +14,10 @@ body {
   flex: 1 1 160px;
 }
 
+.container-fluid {
+  background-color: #aaebac;
+}
+
 .card_item {
   flex: 1 1 auto;
   padding: 1rem;
@@ -22,11 +26,11 @@ body {
   background-size: cover;
   background-position: center center;
   background-repeat: no-repeat;
-  background-image: linear-gradient(to left, rgb(105, 226, 115), rgb(166, 230, 166));
+  background-image: linear-gradient(to left, rgb(105, 226, 115), rgb(140, 240, 140));
 }
 
 .card_item:nth-child(even) {
-  background-image: linear-gradient(to left, rgb(30, 128, 27), rgb(28, 227, 45));
+  background-image: linear-gradient(to left, rgb(36, 163, 31), rgb(28, 227, 45));
 }
 
 .card_item:hover {

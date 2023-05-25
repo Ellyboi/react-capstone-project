@@ -82,7 +82,7 @@
 
 ## Live Demo <a name="live-demo"></a>
 
-- [Live Demo]()
+- [Live Demo](https://www.loom.com/share/df65b6d1292846c88af2370c5ea6f109)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -229,6 +229,6 @@ If you like this project feel free to let me know via Linkedin - Github - Twitte
 
 ## License <a name="license"></a>
 
-This project is [MIT](./LICENSE) licensed.
+This project is [MIT](./LICENSE(https://github.com/Ellyboi/react-capstone-project/blob/metricWebApp/LICENSE)) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
