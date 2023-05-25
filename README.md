@@ -45,11 +45,11 @@
 
 ## Mobile
 
-<img src="https://i.ibb.co/k5LnZPk/cct-Mobile.png" alt="Mobile Screenshot" width="200">
+<img src="images/screenshot (26).png" alt="Mobile Screenshot" width="200">
 
 ## Desktop
 
-<img src="https://i.ibb.co/NZ5LCw4/cct-Desktop.png" alt="Desktop Screenshot">
+<img src="images/screenshot (27).png" alt="Desktop Screenshot">
 
 
 ## Built With <a name="built-with"></a>
