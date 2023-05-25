@@ -100,6 +100,8 @@ Clone this repository to your desired folder:
   3 - Use the git clone command in the root of the folder where you will save the project.<br></br>
 
 Note: For more information you can visit <a href="https://docs.github.com/es/get-started/getting-started-with-git/about-remote-repositories" target="_blank">About remote Repositories</a> and <a href="https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/adding-and-cloning-repositories/cloning-and-forking-repositories-from-github-desktop" target="_blank">Adding and cloning repositories</a>.
+![Screenshot (26)](https://github.com/Ellyboi/react-capstone-project/assets/70116262/c99fbfff-b5ea-4c2c-b713-531d492f61e3)
+![Screenshot (27)](https://github.com/Ellyboi/react-capstone-project/assets/70116262/d795a345-bef9-470e-a78a-8ef84b0f99e9)
 
 ### Prerequisites
 
